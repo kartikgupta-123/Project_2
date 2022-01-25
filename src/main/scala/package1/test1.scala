@@ -5,7 +5,6 @@ object test1 {
 
     println("Hello world")
     println("Hello Gurgaon")
-    println("Hello Noida")
 
 
   }
