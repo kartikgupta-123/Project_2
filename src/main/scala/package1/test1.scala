@@ -7,7 +7,7 @@ object test1 {
     println("Hello Gurgaon")
     println("Hello Noida")
 
-    print("This is feature branch")
+    print("This is a master branch not a feature branch")
 
   }
 
